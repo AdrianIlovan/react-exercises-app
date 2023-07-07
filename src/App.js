@@ -2,7 +2,7 @@ import './App.css';
 import {BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom'
 import {Home} from "./pages/Home";
 import {Contact} from "./pages/Contact";
-import { Navbar } from './Navbar';
+import { Navbar } from './components/Navbar';
 import { Comanda } from './pages/Comanda';
 import { Produse } from './pages/Produse';
 import { Despre } from './pages/Despre'
